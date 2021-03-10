@@ -1,2 +1,2 @@
-# RELATED-TO-ROS
-2 wheeled bot using ROS.
+# RELATED-TO- bot using ROS.
+2 wheel bot simulated using ROS .
