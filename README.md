@@ -1,2 +1,3 @@
-# RELATED-TO- bot using ROS.
-2 wheel bot simulated using ROS .
+SLAM AND OBSTACLE AVOIDANCE USING ROS
+URDF is not done using any exporter
+
